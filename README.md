@@ -87,7 +87,10 @@ This project aims to analyze customer savings behavior across different demograp
   
 </pre>
 
-## How to Use 
+## How to Use
+
+- Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiMTg2ZTFiMmItOGUwMi00YmJjLTkzNDYtNzg5ZGUzYjNlNzdiIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) to view the report online, or download the [BankCustomerSavingsAnalysis.pbix](BankCustomerSavingsAnalysis.pbix) file to access and edit it using Power BI Desktop.
+- Use the attached [BankCustomerSavingsAnalysis.pdf](BankCustomerSavingsAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
 
 
 ## Future Improvements 
