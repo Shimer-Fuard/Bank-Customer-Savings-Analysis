@@ -1,5 +1,9 @@
 # Bank-Customer-Savings-Analysis
 
+## Dashboard Preview 
+
+![Dashboard Preview](BankCustomerSavingsAnalysis(DataVisionary).png) 
+
 ## Live Report
 **View the live interactive Power BI report here:**
 [Click to Open Report]()   
@@ -61,9 +65,6 @@ This project aims to analyze customer savings behavior across different demograp
   - Insights to improve banking policies and savings strategies.
   - Creating formatted reports and presentations for stakeholders.
 
-  ## Dashboard Preview 
-
-![Dashboard Preview](BankCustomerSavingsAnalysis(DataVisionary).png) 
 
 ## Project Structure 
 
@@ -94,3 +95,8 @@ This project aims to analyze customer savings behavior across different demograp
 - Predict future savings behaviors based on historical data.
 - Integration with real-time banking data: Dynamic updates for more precise financial insights.
 - Making financial reporting smoother and more accessible.
+
+## References
+
+- Data Visionary (Youtube Chanel):[Dataset/Project Inspiration](https://www.youtube.com/@DataVisionary https://drive.google.com/drive/folders/1DshD-Ud037J1ij9QPiyrLghjYRXClZGq)
+- Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
