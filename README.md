@@ -68,24 +68,16 @@ This project aims to analyze customer savings behavior across different demograp
 ## Project Structure 
 
 <pre style="background: #fff; padding: 0; border: none; font-family: monospace;">
-📂 Coffee-Shop-Sales-Analysis/ 
-  │-- 📁 Icons/ # Report icons   
-
-  │-- 📁 RawData/ # Contains raw and processed datasets 
-  
-        |-- Coffee Shop Sales.xlsx
-        
-  │-- 📁 Report_Snapshots/ # Report images
+📂 Bank-Customer-Savings-Analysis/ 
+  │-- 📁 DataFiles/ # Contains raw and processed datasets    
     
-        |-- OverallAnalysis.png
+        |-- UK Bank Customer Savings Data.csv
+    
+  │-- 📁 BankCustomerSavingsAnalysis(DataVisionary).png/ # Report images 
+        
+  │-- 📁 BankCustomerSavingsAnalysis.pbix
 
-        |-- StoreAnalysis.png
-
-        |-- TimeAnalysis.png
-  
-  │-- 📁 CoffeeShopSales.pbix/ 
-  
-  │-- 📁 CoffeeShopSalesAnalysis.pdf/ 
+  │-- 📁 BankCustomerSavingsAnalysis.pdf
 
   │-- 📄 LICENSE/ # License Details/ 
   
