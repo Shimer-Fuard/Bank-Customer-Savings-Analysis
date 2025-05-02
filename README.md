@@ -63,7 +63,7 @@ This project aims to analyze customer savings behavior across different demograp
 
   ## Dashboard Preview 
 
-![Dashboard Preview]() 
+![Dashboard Preview](BankCustomerSavingsAnalysis(DataVisionary).png) 
 
 ## Project Structure 
 
