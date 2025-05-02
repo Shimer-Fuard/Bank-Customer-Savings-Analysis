@@ -2,7 +2,7 @@
 
 ## Live Report
 **View the live interactive Power BI report here:**
-[Click to Open Report](https://www.youtube.com/watch?v=GZqBefbNP10&list=PLivg8K-2_O5hgG__tvz2cQzvy13y2u5hf&index=2 / https://drive.google.com/drive/folders/18cTMNb6brTJwAhOayuyN7mdKGBnn3TC2)   
+[Click to Open Report]()   
 *(Hosted on Power BI Service)*
 
 ## Project Overview 
