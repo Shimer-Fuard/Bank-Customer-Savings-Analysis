@@ -100,3 +100,7 @@ This project aims to analyze customer savings behavior across different demograp
 
 - Data Visionary (Youtube Chanel):[Dataset/Project Inspiration](https://www.youtube.com/@DataVisionary https://drive.google.com/drive/folders/1DshD-Ud037J1ij9QPiyrLghjYRXClZGq)
 - Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
+
+
+
+<iframe title="BankCustomerSavingsAnalysis" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMTg2ZTFiMmItOGUwMi00YmJjLTkzNDYtNzg5ZGUzYjNlNzdiIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9" frameborder="0" allowFullScreen="true"></iframe>
