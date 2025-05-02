@@ -16,7 +16,7 @@ This project aims to analyze customer savings behavior across different demograp
 - Regional savings trends,
     - England has the highest savings at £84.83M (53.15%).
     - Scotland, Wales, and Northern Ireland contribute the remaining savings.
--Job based savings insights,
+- Job based savings insights,
     - White-collar employees hold 48.91% of the total savings.
     - Blue-collar workers contribute 25.89%, with the rest classified under "Other" occupations.
  
