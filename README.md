@@ -6,7 +6,7 @@
 
 ## Live Report
 **View the live interactive Power BI report here:**
-[Click to Open Report]()   
+[Click to Open Report](https://app.powerbi.com/view?r=eyJrIjoiMTg2ZTFiMmItOGUwMi00YmJjLTkzNDYtNzg5ZGUzYjNlNzdiIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)   
 *(Hosted on Power BI Service)*
 
 ## Project Overview 
